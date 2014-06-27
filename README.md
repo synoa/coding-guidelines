@@ -42,4 +42,5 @@ public function foo() {
 
 ### Hints
 
-If you need more than one line to describe something inside e.g. a method, you can switch to "big" comments. 
+1. If you don't have a CallID, you should probably create a call. If there is no reason to create a call, you can write the comment like this: `[<Author>] - <Comment>`
+2. If you need more than one line to describe something inside e.g. a method, you can switch to "big" comments. 
